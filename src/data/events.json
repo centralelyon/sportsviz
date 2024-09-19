@@ -1,0 +1,74 @@
+[
+  {
+    "name": "🎉 Accepted",
+    "start": "2024-07",
+    "end": "2024-07",
+    "type": "Org"
+  },
+  {
+    "name": "🥇 Paris24",
+    "start": "2024-08",
+    "end": "2024-08",
+    "type": "Events"
+  },
+  {
+    "name": "🚀 Kickoff",
+    "start": "2025-01",
+    "end": "2025-02",
+    "type": "Org"
+  },
+  {
+    "name": "PhD Student #1",
+    "start": "2025-03",
+    "end": "2028-02",
+    "type": "PhD Student"
+  },
+  {
+    "name": "PhD Student #2",
+    "start": "2025-09",
+    "end": "2028-08",
+    "type": "PhD Student"
+  },
+  {
+    "name": "Engineer #1",
+    "start": "2025-09",
+    "end": "2028-08",
+    "type": "Engineer"
+  },
+  {
+    "name": "Internships",
+    "start": "2025-03",
+    "end": "2025-09",
+    "type": "Internships"
+  },
+  {
+    "name": "Internships",
+    "start": "2026-03",
+    "end": "2026-09",
+    "type": "Internships"
+  },
+  {
+    "name": "Internships",
+    "start": "2027-03",
+    "end": "2027-09",
+    "type": "Internships"
+  },
+  {
+    "name": "Internships",
+    "start": "2028-03",
+    "end": "2028-09",
+    "type": "Internships"
+  },
+  {
+    "name": "🥇 LA28",
+    "start": "2028-08",
+    "end": "2028-08",
+    "type": "Events"
+  },
+  {
+    "name": "End",
+    "start": "2029-01",
+    "end": "2028-12",
+    "type": "Org"
+  }
+]
